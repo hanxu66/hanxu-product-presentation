@@ -1,0 +1,15 @@
+{
+  "name": "hanxu-product-presentation",
+  "version": "0.1.0",
+  "repository": "hanxu-product-presentation",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "3005be2b8d32501054f7b4ddc7017d7408f932d4418d60f837ec1bb69057c88f",
+    "SKILL.md": "a803e76c71e3c6c37086e520c1f71b62e760be2daa9b712b5573b13b085a28f7",
+    "VALIDATION.md": "8bca87cbf4b73160d5278ed37f2d380986449ac104ee05df126df1927587a9b0",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "0fb09b757754bfb1dbea461b9e0a41eac8d16901c8b6af6cb76554dd56417ca2",
+    "examples/product-page.html": "5b527029e2d046c200c1f40f8bf598c7501a7969c90db2d131ef9e42c20e0050",
+    "references/acceptance.md": "ab33e3bd7d87a6b9d652f8e453643c60b4996ee69d61f4d0914ec2f8cda164e2"
+  }
+}
